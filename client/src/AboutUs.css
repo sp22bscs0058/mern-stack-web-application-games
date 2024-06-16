@@ -1,0 +1,22 @@
+body {
+  background-size: cover;
+  background-position: center;
+  color: antiquewhite; 
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+}
+
+.contact-box {
+  background-color: rgb(250, 235, 215); 
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center; 
+}
+
+.contact-box h2, .contact-box h4, .contact-box p, .contact-box p2,.contact-box p1 {
+  color: darkblue; 
+}
+
+
